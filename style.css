@@ -32,3 +32,8 @@ li {
 a {
     color: #eed49f;
 }
+
+img {
+    max-width: 10rem;
+    border-radius: 3rem;
+}
