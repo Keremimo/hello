@@ -25,8 +25,36 @@ th {
     padding: 0 3rem;
 }
 
-li {
+.header-two {
+    max-width: fit-content;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header-two h2 {
+    text-align: center;
+    max-width: fit-content;
+    margin-inline: auto;
+}
+
+.header-two ul {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header-three {
+    max-width: fit-content;
+    text-align: center;
+    margin-inline: auto;
+    padding: 0 4rem;
+}
+
+.header-three li {
     padding-right: 2rem;
+    list-style-position: inside;
+    text-align: left;
+    margin: 0 auto;
+
 }
 
 a {
