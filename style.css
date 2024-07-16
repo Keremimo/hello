@@ -12,6 +12,8 @@ hr {
 body {
     background: #24273a;
     color: #f4dbd6;
+    width: 50%;
+    margin-inline: auto;
 }
 
 table {
@@ -66,4 +68,5 @@ a {
 img {
     max-width: 10rem;
     border-radius: 100%;
+    border: 2px solid #b7bdf8;
 }
