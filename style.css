@@ -31,7 +31,8 @@ th {
     margin: 0 auto;
 }
 
-.header-two h2 {
+.header-two h2,
+.header-four {
     text-align: center;
     max-width: fit-content;
     margin-inline: auto;
