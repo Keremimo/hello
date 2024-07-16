@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+
+* {
+    font-family: Inconsolata;
+    text-align: center;
+}
+
+hr {
+    border-top-color: #ed8796;
+}
+
+body {
+    background: #24273a;
+    color: #f4dbd6;
+}
+
+table {
+    margin: 0 auto;
+    border: 1px inset #ed8796;
+    border-radius: 2rem;
+    padding: 0 1.5rem;
+}
+
+th {
+    padding: 0 3rem;
+}
+
+li {
+    padding-right: 2rem;
+}
