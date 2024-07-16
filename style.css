@@ -103,6 +103,12 @@ img {
         max-width: 14rem;
     }
 
+    .header-two li {
+        padding-right: 2rem;
+        text-align: left;
+        margin: 0 auto;
+    }
+
     .header-three,
     .header-four {
         max-width: fit-content;
