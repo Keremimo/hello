@@ -42,7 +42,8 @@ th {
     margin: 0 auto;
 }
 
-.header-three {
+.header-three,
+.header-four {
     max-width: fit-content;
     text-align: center;
     margin-inline: auto;
